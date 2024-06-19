@@ -11,5 +11,5 @@ A web-based todo list application that allows users to add, edit, and delete tas
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Stefanos-gif/todo-list-app
+   git clone https://github.com/Stefanos-gif/todo-list-app.git
    cd todo-list-app
